@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{A893D9D3-4622-4B1D-AB75-B3D68E03026C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapacitacionJS.Web", "Web\CapacitacionJS.Web\CapacitacionJS.Web.csproj", "{C8A3131E-7CD8-4B39-9B2C-536647F89D9A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Framework", "Framework", "{81DD5635-E944-4D0C-823C-42FA5783484F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapacitacionJS.Support.Web", "Framework\CapacitacionJS.Support.Web\CapacitacionJS.Support.Web.csproj", "{723EFABD-9001-4052-887A-6A41170AD810}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapacitacionJS.Support", "Framework\CapacitacionJS.Support\CapacitacionJS.Support.csproj", "{744553CA-2CEA-4EE7-80FE-1DC31F633317}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{62451EF4-6D90-43B8-B073-D4B6A1EC06DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapacitacionJS.Services", "Core\CapacitacionJS.Services\CapacitacionJS.Services.csproj", "{DB61C1E1-1CAD-44AC-8D1E-FA228E7B3DCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapacitacionJs.Models", "Core\CapacitacionJs.Models\CapacitacionJs.Models.csproj", "{6F225636-8ADF-4E9E-B7C3-D62F55148861}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8A3131E-7CD8-4B39-9B2C-536647F89D9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8A3131E-7CD8-4B39-9B2C-536647F89D9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8A3131E-7CD8-4B39-9B2C-536647F89D9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8A3131E-7CD8-4B39-9B2C-536647F89D9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{723EFABD-9001-4052-887A-6A41170AD810}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{723EFABD-9001-4052-887A-6A41170AD810}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{723EFABD-9001-4052-887A-6A41170AD810}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{723EFABD-9001-4052-887A-6A41170AD810}.Release|Any CPU.Build.0 = Release|Any CPU
+		{744553CA-2CEA-4EE7-80FE-1DC31F633317}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{744553CA-2CEA-4EE7-80FE-1DC31F633317}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{744553CA-2CEA-4EE7-80FE-1DC31F633317}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{744553CA-2CEA-4EE7-80FE-1DC31F633317}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB61C1E1-1CAD-44AC-8D1E-FA228E7B3DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB61C1E1-1CAD-44AC-8D1E-FA228E7B3DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB61C1E1-1CAD-44AC-8D1E-FA228E7B3DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB61C1E1-1CAD-44AC-8D1E-FA228E7B3DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F225636-8ADF-4E9E-B7C3-D62F55148861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F225636-8ADF-4E9E-B7C3-D62F55148861}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F225636-8ADF-4E9E-B7C3-D62F55148861}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F225636-8ADF-4E9E-B7C3-D62F55148861}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C8A3131E-7CD8-4B39-9B2C-536647F89D9A} = {A893D9D3-4622-4B1D-AB75-B3D68E03026C}
+		{723EFABD-9001-4052-887A-6A41170AD810} = {81DD5635-E944-4D0C-823C-42FA5783484F}
+		{744553CA-2CEA-4EE7-80FE-1DC31F633317} = {81DD5635-E944-4D0C-823C-42FA5783484F}
+		{DB61C1E1-1CAD-44AC-8D1E-FA228E7B3DCB} = {62451EF4-6D90-43B8-B073-D4B6A1EC06DB}
+		{6F225636-8ADF-4E9E-B7C3-D62F55148861} = {62451EF4-6D90-43B8-B073-D4B6A1EC06DB}
+	EndGlobalSection
+EndGlobal

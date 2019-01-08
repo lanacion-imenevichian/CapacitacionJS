@@ -1,0 +1,9 @@
+C:\Users\imenevichian\Documents\Visual Studio 2015\Projects\CapacitacionJS\Core\CapacitacionJS.Services\bin\Debug\CapacitacionJS.Services.dll
+C:\Users\imenevichian\Documents\Visual Studio 2015\Projects\CapacitacionJS\Core\CapacitacionJS.Services\bin\Debug\CapacitacionJS.Services.pdb
+C:\Users\imenevichian\Documents\Visual Studio 2015\Projects\CapacitacionJS\Core\CapacitacionJS.Services\bin\Debug\CapacitacionJs.Models.dll
+C:\Users\imenevichian\Documents\Visual Studio 2015\Projects\CapacitacionJS\Core\CapacitacionJS.Services\bin\Debug\CapacitacionJS.Support.dll
+C:\Users\imenevichian\Documents\Visual Studio 2015\Projects\CapacitacionJS\Core\CapacitacionJS.Services\bin\Debug\CapacitacionJS.Support.pdb
+C:\Users\imenevichian\Documents\Visual Studio 2015\Projects\CapacitacionJS\Core\CapacitacionJS.Services\bin\Debug\CapacitacionJs.Models.pdb
+C:\Users\imenevichian\Documents\Visual Studio 2015\Projects\CapacitacionJS\Core\CapacitacionJS.Services\obj\Debug\CapacitacionJS.Services.csprojResolveAssemblyReference.cache
+C:\Users\imenevichian\Documents\Visual Studio 2015\Projects\CapacitacionJS\Core\CapacitacionJS.Services\obj\Debug\CapacitacionJS.Services.dll
+C:\Users\imenevichian\Documents\Visual Studio 2015\Projects\CapacitacionJS\Core\CapacitacionJS.Services\obj\Debug\CapacitacionJS.Services.pdb

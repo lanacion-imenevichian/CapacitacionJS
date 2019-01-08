@@ -1,0 +1,5 @@
+C:\Users\imenevichian\Documents\visual studio 2015\Projects\CapacitacionJS\Framework\CapacitacionJS.Support\bin\Debug\CapacitacionJS.Support.dll
+C:\Users\imenevichian\Documents\visual studio 2015\Projects\CapacitacionJS\Framework\CapacitacionJS.Support\bin\Debug\CapacitacionJS.Support.pdb
+C:\Users\imenevichian\Documents\visual studio 2015\Projects\CapacitacionJS\Framework\CapacitacionJS.Support\obj\Debug\CapacitacionJS.Support.csprojResolveAssemblyReference.cache
+C:\Users\imenevichian\Documents\visual studio 2015\Projects\CapacitacionJS\Framework\CapacitacionJS.Support\obj\Debug\CapacitacionJS.Support.dll
+C:\Users\imenevichian\Documents\visual studio 2015\Projects\CapacitacionJS\Framework\CapacitacionJS.Support\obj\Debug\CapacitacionJS.Support.pdb

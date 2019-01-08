@@ -1,0 +1,10 @@
+C:\Users\imenevichian\Documents\visual studio 2015\Projects\CapacitacionJS\Framework\CapacitacionJS.Support.Web\bin\Debug\CapacitacionJS.Support.Web.dll
+C:\Users\imenevichian\Documents\visual studio 2015\Projects\CapacitacionJS\Framework\CapacitacionJS.Support.Web\bin\Debug\CapacitacionJS.Support.Web.pdb
+C:\Users\imenevichian\Documents\visual studio 2015\Projects\CapacitacionJS\Framework\CapacitacionJS.Support.Web\bin\Debug\CapacitacionJS.Support.dll
+C:\Users\imenevichian\Documents\visual studio 2015\Projects\CapacitacionJS\Framework\CapacitacionJS.Support.Web\bin\Debug\System.Web.Http.dll
+C:\Users\imenevichian\Documents\visual studio 2015\Projects\CapacitacionJS\Framework\CapacitacionJS.Support.Web\bin\Debug\Newtonsoft.Json.dll
+C:\Users\imenevichian\Documents\visual studio 2015\Projects\CapacitacionJS\Framework\CapacitacionJS.Support.Web\bin\Debug\CapacitacionJS.Support.pdb
+C:\Users\imenevichian\Documents\visual studio 2015\Projects\CapacitacionJS\Framework\CapacitacionJS.Support.Web\bin\Debug\System.Web.Http.xml
+C:\Users\imenevichian\Documents\visual studio 2015\Projects\CapacitacionJS\Framework\CapacitacionJS.Support.Web\obj\Debug\CapacitacionJS.Support.Web.csprojResolveAssemblyReference.cache
+C:\Users\imenevichian\Documents\visual studio 2015\Projects\CapacitacionJS\Framework\CapacitacionJS.Support.Web\obj\Debug\CapacitacionJS.Support.Web.dll
+C:\Users\imenevichian\Documents\visual studio 2015\Projects\CapacitacionJS\Framework\CapacitacionJS.Support.Web\obj\Debug\CapacitacionJS.Support.Web.pdb
