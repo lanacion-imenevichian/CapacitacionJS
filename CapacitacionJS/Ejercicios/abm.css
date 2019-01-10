@@ -1,0 +1,63 @@
+body {
+  font-family:"arial";
+  margin: 2em;
+}
+
+h1 {
+  font-size: 3em;
+  margin: 0em;
+  margin-bottom: 0.25em;
+}
+
+h2 {
+  font-size: 2em;
+  margin: 0px;
+}
+
+hr {
+  margin-top: 1em;
+  margin-bottom: 2em;
+  border: 0px;
+  border-bottom: 1px solid;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+tbody.summary>tr {
+  border-top: 1px solid #000;
+}
+
+td {
+  text-align: center;
+  vertical-align: middle;
+}
+
+td.actions {
+  font-size: 0.75em;
+}
+
+fieldset {
+  width: 30em;
+  margin: 0 auto;
+}
+
+label {
+  float: right;
+  margin-right: 1em;
+}
+
+input[type=text] {
+  width: 100%;
+}
+
+input[type=submit] {
+  margin-top: 1em;
+  float: right;
+}
+
+tbody>tr>th {
+  width: 45%;
+}
